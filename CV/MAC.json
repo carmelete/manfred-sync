@@ -118,25 +118,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
-        "name": "Learn JavaScript Unit Testing Course",
-        "startDate": "2022-10-01",
-        "institution": {
-          "name": "Codecademy",
-          "image": {
-            "alt": "Learn JavaScript Unit Testing Course_page-0001.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/08/29088cd8-5a2f-4b7e-8bec-29168539ca71_learn-javascript-uni.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Mocha",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": false,
         "name": "Learn React Testing Course",
         "startDate": "2022-10-01",
         "institution": {
