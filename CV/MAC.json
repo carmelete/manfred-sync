@@ -137,6 +137,25 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": false,
+        "name": "Learn JavaScript Unit Testing Course Founder &",
+        "startDate": "2022-10-01",
+        "institution": {
+          "name": "Codecademy",
+          "image": {
+            "alt": "Learn JavaScript Unit Testing Course_page-0001.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/08/47434752-1a75-4ebf-b39f-dd07a195d598_learn-javascript-uni.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Mocha",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
         "name": "Create a Front-End App with React Skill Path Founder",
         "startDate": "2022-09-01",
         "institution": {
