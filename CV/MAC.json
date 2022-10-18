@@ -71,6 +71,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Jammming-app",
+          "description": "It is an application that allows users to search the Spotify library, create a custom playlist, then save it to their Spotify account.",
+          "URL": "https://github.com/carmelete/jammming"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
