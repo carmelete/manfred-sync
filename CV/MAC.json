@@ -37,6 +37,43 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Ravenous-app",
+          "description": "It is a clone of the existing app Yelp, where you can find the best restaurants in your area. The application function is easy, you can enter a type of food and a a location and the application return a list of restaurants whre you can find that meal. You can filter for \"Best match\", \"Highest Rated\" and \"Most Reviewed\"",
+          "URL": "https://github.com/carmelete/ravenous-app"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
