@@ -109,11 +109,23 @@
                 "type": "technology"
               },
               {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
                 "name": "HTML",
                 "type": "technology"
               },
               {
                 "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
