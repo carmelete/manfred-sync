@@ -41,6 +41,58 @@
     "projects": [
       {
         "details": {
+          "name": "Reddit-app",
+          "description": "Application of Reddit that allows users to view and search posts and comments provided by the API.",
+          "URL": "https://github.com/carmelete/reddit-app"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ravenous-app",
           "description": "It is a clone of the existing app Yelp, where you can find the best restaurants in your area. The application function is easy, you can enter a type of food and a a location and the application return a list of restaurants whre you can find that meal. You can filter for \"Best match\", \"Highest Rated\" and \"Most Reviewed\"",
           "URL": "https://github.com/carmelete/ravenous-app"
