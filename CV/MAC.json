@@ -104,6 +104,39 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Appointment-planner",
+          "description": "App that manages contacts and appointments. The app consists of two pages: one to view and add contacts and one to view and add appointments.",
+          "URL": "https://github.com/carmelete/appointment-planner"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-09-01",
+            "finishDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
